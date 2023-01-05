@@ -12,17 +12,18 @@ knitr::opts_chunk$set(echo = TRUE)
 library(gitcreds)
 ```
 
+1. Run the code above to load the `gitcreds` package. 
 
-1. Copy/paste the following command into the R console. Then enter your GitHub PAT when prompted. 
+2. Copy/paste the following command into the R console. Then enter your GitHub PAT when prompted. 
 ```{r}
 #gitcreds::gitcreds_set()
 ```
 
-2. Enter your name, as the author in the heading of the document. Save the document.  
-3. On the Git tab in the upper right, check the box next to "GitHub_Practice.Rmd" and click commit.   
-4. Enter a commit message, such as "changed name" to tell yourself and collaborators what you did in this commit.   
-5. Click "Push".   
-6. Check that the new version of the document, with your updated name, shows up on GitHub.    
+3. Enter your name, as the author in the heading of the document. Save the document.  
+4. On the Git tab in the upper right, check the box next to "GitHub_Practice.Rmd" and click commit.   
+5. Enter a commit message, such as "changed name" to tell yourself and collaborators what you did in this commit.   
+6. Click "Push".   
+7. Check that the new version of the document, with your updated name, shows up on GitHub.    
 
 
 
