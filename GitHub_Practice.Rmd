@@ -1,6 +1,6 @@
 ---
 title: "GitHub Practice"
-author: "Your Name "
+author: "Your Name"
 output: pdf_document
 ---
 
